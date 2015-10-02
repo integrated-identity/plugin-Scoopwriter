@@ -72,6 +72,10 @@ aes:
         addexistingtopics: 'Add existing topic(s)'
         topicname: 'Topic name'
         assignedtopics: 'Assigned Topics'
+        articleslists: null
+        addexistingarticleslists: null
+        assignedarticleslists: null
+        unassignarticleslist: null
         customfields: 'Custom fields'
         nofields: 'There are no metadata fields for this type of article'
         searchmedia: 'Search Media Archive'
@@ -344,3 +348,15 @@ aes:
             resolve:
                 success: 'The comment has been resolved successfully.'
                 error: 'The comment could not be resolved.'
+        articleslists:
+            add:
+                success: null
+                error: null
+            assign:
+                success: null
+                error: null
+            unassign:
+                popupHead: null
+                popup: null
+                success: null
+                error: null

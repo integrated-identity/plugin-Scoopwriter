@@ -72,6 +72,10 @@ aes:
         addexistingtopics: 'Tilføj eksisterende emne(r)'
         topicname: 'Emnets navn'
         assignedtopics: 'Valgte emner'
+        articleslists: null
+        addexistingarticleslists: null
+        assignedarticleslists: null
+        unassignarticleslist: null
         customfields: 'Brugerdefinerede felter'
         nofields: 'Denne type artikel har ingen felter til metadata'
         searchmedia: 'Søg i mediearkiv'
@@ -342,5 +346,17 @@ aes:
             info: null
         editorialcomments:
             resolve:
+                success: null
+                error: null
+        articleslists:
+            add:
+                success: null
+                error: null
+            assign:
+                success: null
+                error: null
+            unassign:
+                popupHead: null
+                popup: null
                 success: null
                 error: null

@@ -72,6 +72,10 @@ aes:
         addexistingtopics: null
         topicname: 'Jméno tématu'
         assignedtopics: null
+        articleslists: null
+        addexistingarticleslists: null
+        assignedarticleslists: null
+        unassignarticleslist: null
         customfields: null
         nofields: null
         searchmedia: null
@@ -342,5 +346,17 @@ aes:
             info: null
         editorialcomments:
             resolve:
+                success: null
+                error: null
+        articleslists:
+            add:
+                success: null
+                error: null
+            assign:
+                success: null
+                error: null
+            unassign:
+                popupHead: null
+                popup: null
                 success: null
                 error: null
