@@ -1,76 +1,76 @@
 aes:
     label:
-        recommend: null
-        unrecommend: null
+        recommend: Рекомендовать
+        unrecommend: 'Не рекомендовать'
         collapse: null
         expand: null
-        undo: null
-        redo: null
-        reply: null
+        undo: Отменить
+        redo: Повторить
+        reply: Ответ
         finishingauth: null
         selectedtext: null
         linktext: null
         openlink: null
         attachedimages: null
-        approved: null
-        remove: null
-        images: null
+        approved: Утверждено
+        remove: Удалить
+        images: Изображения
         embedcode: null
         addsnippet: null
-        title: null
+        title: Заголовок
         snippettemplate: null
         choosetemplate: null
         templatefields: null
         attachedsnippets: null
-        comments: null
-        postcomment: null
-        enabled: null
-        disabled: null
-        locked: null
+        comments: Комментарии
+        postcomment: 'Отправить комментарий'
+        enabled: Разрешено
+        disabled: Запрещено
+        locked: Заблокировано
         visibleonfrontend: null
         commenting: null
         expandcomments: null
-        no: null
-        yes: null
-        view: null
-        all: null
-        hidden: null
-        pending: null
+        no: Нет
+        yes: Да
+        view: Вид
+        all: Все
+        hidden: Скрытый
+        pending: 'Ожидающие подтверждения'
         nested: null
         chronological: null
         chronologicalasc: null
         nocomments: null
         articleinfo: null
-        created: null
+        created: Создана
         lastupdated: null
-        publishedon: null
-        type: null
-        webcode: null
+        publishedon: Опубликовано
+        type: Тип
+        webcode: Web-код
         authorsmanagement: null
         addanauthor: null
         selectauthor: null
         chooserole: null
         attachedauthors: null
-        relatedarticles: null
+        relatedarticles: 'Связанные статьи'
         advancedfilter: null
-        publication: null
-        issue: null
-        section: null
-        language: null
-        search: null
+        publication: Издание
+        issue: Выпуск
+        section: Рубрика
+        language: Язык
+        search: Поиск
         pinnedarticles: null
         searchresults: null
-        at: null
-        published: null
-        new: null
-        submitted: null
+        at: на
+        published: Опубликовано
+        new: Новый
+        submitted: Отправлено
         pinarticle: null
-        switches: null
-        topics: null
-        addtopic: null
+        switches: Переключатели
+        topics: Темы
+        addtopic: 'Добавить новую тему'
         selectparent: null
         addexistingtopics: null
-        topicname: null
+        topicname: 'Название темы'
         assignedtopics: null
         articleslists: null
         addexistingarticleslists: null
@@ -83,12 +83,12 @@ aes:
         currentfilter: null
         nodescription: null
         loadmore: null
-        showmorecomments: null
-        draghere: null
-        orselect: null
-        useforall: null
-        description: null
-        photographer: null
+        showmorecomments: 'Показать больше комментариев'
+        draghere: 'Перетащите ваше изображение сюда '
+        orselect: 'или Выберите из папки'
+        useforall: 'Использовать для всех'
+        description: Описание
+        photographer: Фотограф
         enteraddress: null
         selectedimages: null
         imagescount: null
@@ -97,14 +97,14 @@ aes:
         replycomment: null
         articlepreview: null
         articleeditingenv: null
-        attachedslideshows: null
-        slideshows: null
+        attachedslideshows: 'Прикрепленные слайд-шоу'
+        slideshows: Слайдшоу
         itemscount: null
         attachslideshows: null
         attachdetach: null
         createslideshow: null
         helptranslate: null
-        editorialcomments: null
+        editorialcomments: 'Комментарии автора:'
         resolve: null
     alerts:
         popup:
@@ -127,40 +127,40 @@ aes:
         resetcss: null
         authfinished: null
     fields:
-        title: null
+        title: Заголовок
     btn:
-        unlock: null
-        cancel: null
-        view: null
-        save: null
-        okbtn: null
+        unlock: Разблокировать
+        cancel: Отменить
+        view: Вид
+        save: Сохранить
+        okbtn: OK
         restorecss: null
         clear: null
-        add: null
+        add: Добавить
         attachimage: null
         setrenditions: null
         apply: null
-        approve: null
+        approve: Утвердить
         markasnew: null
-        hide: null
-        delete: null
-        filter: null
-        reply: null
-        zenmode: null
+        hide: Скрыть
+        delete: Удалить
+        filter: Фильтр
+        reply: Ответ
+        zenmode: 'Дзен режим'
         previewarticle: null
-        livearticle: null
+        livearticle: 'Перейти к активной статье'
         editcaption: null
-        upload: null
+        upload: Загрузить
         discard: null
         insertorderedlist: null
         insertunorderedlist: null
-        submit: null
+        submit: Отправить
     tip: null
     tippermissions: null
     stylestip: null
     name: null
-    settingstext: null
-    none: null
+    settingstext: Настройки
+    none: 'Ни один'
     permissions:
         api: null
         defaultsettings: null
@@ -176,25 +176,25 @@ aes:
         imagesize: null
     table:
         th:
-            username: null
-            updated: null
-            firstname: null
-            lastname: null
+            username: 'Имя пользователя'
+            updated: 'Последние изменения'
+            firstname: Имя
+            lastname: Фамилия
             type: null
-            email: null
+            email: E-mail
         actions:
-            actions: null
-            assign: null
-        confirm_remove: null
+            actions: Операции
+            assign: Назначить
+        confirm_remove: 'Подтвердите удаление данного аккаунта? '
         table_messages:
-            page: null
-            perPageText: null
-            pageText: null
-            to: null
-            of: null
+            page: страница
+            perPageText: 'Показать:'
+            pageText: 'Страницы:'
+            to: до
+            of: из
             recordCountFilteredTemplate: null
-            recordCountText: null
-            processingText: null
+            recordCountText: Показано
+            processingText: Обработка...
     settings:
         label:
             viewports: null
@@ -203,19 +203,19 @@ aes:
             titlesettings: null
             switchessettings: null
             placeholdersettings: null
-            images: null
+            images: Изображения
             title: null
-            switches: null
+            switches: Переключатели
             placeholders: null
             mobileview: null
             pixels: null
-            yes: null
-            no: null
+            yes: Да
+            no: Нет
             articletype: null
             defaultplaceholder: null
             apisettings: null
-            api: null
-            permissions: null
+            api: API
+            permissions: Разрешения
             permissionssettings: null
             customstyle: null
             styles: null
@@ -341,7 +341,7 @@ aes:
             email: null
             name: null
             msg: null
-            header: null
+            header: 'Обратная связь'
             modalHead: null
             info: null
         editorialcomments:
