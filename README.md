@@ -26,4 +26,4 @@ This bundle is under the GNU General Public License v3. See the complete license
 
 About
 -------
-Newsletter Plugin Bundle is a [Sourcefabric z.ú.](https://github.com/sourcefabric) initiative.
+This Plugin Bundle is a [Sourcefabric z.ú.](https://github.com/sourcefabric) initiative.
