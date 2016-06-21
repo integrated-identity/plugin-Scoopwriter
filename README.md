@@ -11,3 +11,19 @@ Installation
 -------
 
 [Installation instructions](Resources/docs/installation.md)
+
+Documentation:
+-------------
+
+The documentation can be found [here](https://wiki.sourcefabric.org/display/NPS/Scoopwriter+-+Newscoop%27s+distraction+free+article+edit+screen).
+
+License
+-------
+
+This bundle is under the GNU General Public License v3. See the complete license in the bundle:
+
+    LICENSE
+
+About
+-------
+Newsletter Plugin Bundle is a [Sourcefabric z.ú.](https://github.com/sourcefabric) initiative.
